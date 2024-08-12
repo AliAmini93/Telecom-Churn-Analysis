@@ -10,7 +10,6 @@ This project focuses on predicting customer churn using various machine-learning
 
 ### Dataset Summary
 
-- **Number of Records**: 10,000
 - **Number of Features**: 31
 - **Types of Features**:
   - **Numerical**: `age`, `tenure`, `MonthlyCharges`, `TotalCharges`, `DataUsage`, `VoiceCalls`, `SMSCount`, `AverageChargesPerMonth`
