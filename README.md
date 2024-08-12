@@ -151,11 +151,4 @@ SHAP (SHapley Additive exPlanations) was used to interpret the XGBoost model:
 - **Updating**: Periodically retrain the model with new data to capture evolving customer behaviors.
 - **Integration**: Deploy the model within customer management systems for real-time churn prediction.
 
-## Contributing
-
-Contributions are welcome! Please read the [contributing guidelines](CONTRIBUTING.md) before submitting issues or pull requests.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
